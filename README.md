@@ -17,7 +17,7 @@ To install `pacboy`:
 
 1.  Clone the GitHub repository or download as zip:
     ```bash
-    git clone https://github.com/viztini/pacboy.git
+    git clone https://github.com/dypiro/pacboy.git
     ```
 2.  Change into the project directory:
     ```bash
@@ -49,6 +49,7 @@ pacboy <command> [arguments]
 
 *   `pacboy install <package(s)>`: Install one or more packages.
 *   `pacboy remove <package(s)>`: Remove one or more packages.
+*   `pacboy fremove <package(s)>`: Remove one or more packages forcefully.
 *   `pacboy search <query>`: Search for packages interactively.
 *   `pacboy update`: Update all packages on the system.
 *   `pacboy clean`: Purge pacman cache.
