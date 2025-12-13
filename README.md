@@ -132,5 +132,3 @@ This project embraces personality, but correctness always wins.
 Arch is sharp.
 pacboy just gives it a cute handle.
 
-```
-```
